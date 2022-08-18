@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Condensed&display=swap');
+#display{
+    height: 80px;
+}
+.bg-custome{
+    background-color: #a7b3ac;
+}
+
+.ff-saira{
+    font-family: 'Saira Condensed', sans-serif;
+    font-size:40px;
+    line-height: 20px;
+}
